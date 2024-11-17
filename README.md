@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f82b3e1-8524-487f-a7a1-36a834e48e17)![image](https://github.com/user-attachments/assets/128b3db1-907e-422e-9c85-24043edede68)Hello
+Hello
 I am Shameera
 Welcome to Coding with Shameera
 In this video we are going to create Black Jack Game website using MERN
